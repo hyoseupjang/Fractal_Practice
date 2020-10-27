@@ -34,6 +34,7 @@
 
 # Result
 *.dat
+*.png
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python

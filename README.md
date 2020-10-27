@@ -16,4 +16,4 @@ ifort fractal.f90 -o fractal.bin -qopenmp
 ./fractal.bin #This will create "data.dat" fortran array binary file. 
 
 ### Visualize Image
-Use Visualize.ipynb notebook.
+python Visualize.ipynb
